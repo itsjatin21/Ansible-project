@@ -19,4 +19,4 @@
   loop:
     - { image: "ami-020cba7c55df1f615", name: "manage-node-1" } # Update AMI ID according
     - { image: "ami-020cba7c55df1f615", name: "manage-node-2" } # to your account
-    - { image: "ami-05ffe3c48a9991133", name: "manage-node-3" }
+    - { image: "ami-05ffe3c48a9991133", name: "manage-node-3" }  # Debian 
